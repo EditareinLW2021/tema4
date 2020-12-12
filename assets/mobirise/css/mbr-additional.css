@@ -1308,6 +1308,33 @@ a {
 .cid-siWf5OGwD7 .user_desk {
   color: #ffffff;
 }
+.cid-siWyuKk7BH {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-siWyuKk7BH .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-siWyuKk7BH .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-siWyuKk7BH .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #000000;
+}
+.cid-siWyuKk7BH .panel-body,
+.cid-siWyuKk7BH .card-header {
+  padding: 1rem 0;
+}
+.cid-siWyuKk7BH .panel-title-edit {
+  color: #000000;
+}
 .cid-siWaooevPP {
   padding-top: 5rem;
   padding-bottom: 5rem;
